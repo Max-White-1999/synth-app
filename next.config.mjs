@@ -3,7 +3,7 @@ const nextConfig = {
   /* config options here */
   // reactCompiler: true,
   output: 'export',
-  basePath: process.env.PAGES_BASE_PATH,
+  basePath: "/synth-app",
   distDir: 'docs',
 };
 
